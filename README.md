@@ -1,7 +1,8 @@
+<!--
 ## hello! i'm rachel :)
 currently in my second year of uni, and studying computer science at unsw.
 
-<!--
+
 **uorae/uorae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
